@@ -1,0 +1,12 @@
+{
+    "name": "지수",
+    "image": "https://www.gangel.kr/files/attach/images/287/119/339/001/f5238e8b402a63e0ad2c9f1c742706ae.jpg",
+    "sendable": true,
+    "attributes": [
+        { "value": "BLACKPINK", "trait_type": "group" },
+        { "value": "YG", "trait_type": "company" },
+        { "value": "19950103", "trait_type": "birth" }
+    ],
+    "description": "YG 소속 아이돌 가수",
+    "background_color": "#000000"
+}

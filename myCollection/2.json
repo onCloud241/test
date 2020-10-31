@@ -1,0 +1,12 @@
+{
+    "name": "조이",
+    "image": "https://img.huffingtonpost.com/asset/5ac0443f1e00003b137b0438.jpeg",
+    "sendable": true,
+    "attributes": [
+        { "value": "레드벨벳", "trait_type": "group" },
+        { "value": "SM", "trait_type": "company" },
+        { "value": "19960903", "trait_type": "birth" }
+    ],
+    "description": "SM 소속 아이돌 가수",
+    "background_color": "#b73f4d"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "아지노스 단검",
+    "image": "https://wow.zamimg.com/modelviewer/live/webthumbs/item/249/144377.png",
+    "sendable": true,
+    "attributes": [
+        { "value": "rare", "trait_type": "grade" },
+        { "value": "120", "trait_type": "atk" },
+        { "value": "50", "trait_type": "def" }
+    ],
+    "description": "월드 오브 워크래프트 무기",
+    "background_color": "#c9d7b8"
+}

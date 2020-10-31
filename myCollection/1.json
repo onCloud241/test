@@ -1,0 +1,12 @@
+{
+    "name": "수지",
+    "image": "https://newsimg.hankookilbo.com/cms/articlerelease/2020/10/01/4d664c5d-70d1-4267-aea4-6dec2f0fc89c.jpg",
+    "sendable": true,
+    "attributes": [
+        { "value": "미쓰에이", "trait_type": "group" },
+        { "value": "JYP", "trait_type": "company" },
+        { "value": "19941010", "trait_type": "birth" }
+    ],
+    "description": "JYP 소속 아이돌 가수, 영화배우",
+    "background_color": "#efefef"
+}
