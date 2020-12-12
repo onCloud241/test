@@ -1,0 +1,13 @@
+{
+    "name": "Koo Dae-Young 2020-21 • Rare 3/100",
+    "image": "https://lh3.googleusercontent.com/a8O7hw8tSmfScfHkFcEizNuXlCStarzmlZMmrVhEXjf5fRKnOyutgD3P-y4_EKITWQwfOn8Ss8VxF_dwHyyNZqE=s0",
+    "sendable": true,
+    "attributes": [
+        { "value": "Suwon Bluewings", "trait_type": "CLUB" },
+        { "value": "Classic", "trait_type": "EDITION" },
+        { "value": "Defender", "trait_type": "POSITION" },
+        { "value": "2020-21", "trait_type": "SEASON" }
+    ],
+    "description": "Rare Player Cards are only issued at 100 editions per season.",
+    "background_color": "#f3f2f3"
+}

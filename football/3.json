@@ -1,0 +1,13 @@
+{
+    "name": "William Dutoît 2019-20 • Super Rare 5/10",
+    "image": "https://lh3.googleusercontent.com/_BzFHYSpfmRMfJ6EGnHwI_lfzuvqplJcDCWH8J-YgPQQQH5OxK4geOcOwHlNkvIoaDLeCIcO_zIFPVGcd2bgqM6U=s0",
+    "sendable": true,
+    "attributes": [
+        { "value": "KV Oostende", "trait_type": "CLUB" },
+        { "value": "Classic", "trait_type": "EDITION" },
+        { "value": "Goalkeeper", "trait_type": "POSITION" },
+        { "value": "2019-20", "trait_type": "SEASON" }
+    ],
+    "description": "Super Rare Player Cards are only issued at 10 editions per season.",
+    "background_color": "#f3f2f3"
+}

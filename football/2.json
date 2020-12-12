@@ -1,0 +1,13 @@
+{
+    "name": "Júnior Moraes 2019-20 • Super Rare 7/10",
+    "image": "https://lh3.googleusercontent.com/vudZ1Ndol6stkj9-PZzGkaOktJWvXSuu_MOPFp90kDFGZPn9xKoaYaQLAqrSe_w5mg4WQK0HzwFsBhX0vv88rwc=s0",
+    "sendable": true,
+    "attributes": [
+        { "value": "Shakhtar Donetsk", "trait_type": "CLUB" },
+        { "value": "Classic", "trait_type": "EDITION" },
+        { "value": "Forward", "trait_type": "POSITION" },
+        { "value": "2019-20", "trait_type": "SEASON" }
+    ],
+    "description": "Super Rare Player Cards are only issued at 10 editions per season.",
+    "background_color": "#f3f2f3"
+}
